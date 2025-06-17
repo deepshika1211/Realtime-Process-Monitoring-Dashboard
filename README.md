@@ -9,51 +9,51 @@ Live timestamp and system online/offline indicators.
 Real-time CPU and memory usage charts powered by Chart.js with zoom and export capabilities.
 
 📊 Data Visualization
-Two real-time line graphs:
+→Two real-time line graphs:
 
-CPU Usage (% over time)
+→CPU Usage (% over time)
 
-Memory Usage (% over time)
+→Memory Usage (% over time)
 
-Zoom, pan, and CSV export support for each graph.
+→Zoom, pan, and CSV export support for each graph.
 
 📋 Process Management Table
 Dynamically generated list of simulated system processes.
 
-Displays:
+📋Displays:
 
-PID
+→PID
 
-Process name
+→Process name
 
-Status (running, sleeping, stopped, zombie)
+→Status (running, sleeping, stopped, zombie)
 
-CPU and memory usage
+→CPU and memory usage
 
-Includes badges, action buttons, and select dropdowns.
+→Includes badges, action buttons, and select dropdowns.
 
 ⚙️ Actions & Filters
-Perform mock actions:
+📋Perform mock actions:
 
-Kill
+→Kill
 
-Restart
+→Restart
 
-Change priority
+→Change priority
 
-Bulk actions for multiple processes.
+→Bulk actions for multiple processes.
 
-Live filters:
+→Live filters:
 
-Status filter
+→Status filter
 
-Action filter
+→Action filter
 
-CPU/memory threshold
+→CPU/memory threshold
 
-PID range
+→PID range
 
-Search by name
+→Search by name
 
 🕒 Time Range Control
 Switch between 5, 15, 30, and 60-minute data views.
